@@ -170,7 +170,7 @@ tornado==6.0.4
 tqdm==4.47.0
 traitlets==4.3.3
 typed-ast==1.4.1
-urllib3==1.25.9
+urllib3==1.26.5
 wasabi==0.7.0
 watchdog==0.10.3
 watson-developer-cloud==2.10.1
